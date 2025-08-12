@@ -1,4 +1,4 @@
-# zoran-human-interface
+
 # interface humaine zoran
 
 Module **UI/UX opérateur** pour l’écosystème Zoran / QuantaGlottal©® — permet à un utilisateur non technique de piloter, configurer et surveiller les agents Zoran.
